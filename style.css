@@ -1,0 +1,16 @@
+html, body { 
+  height:100%;
+  background-color: black;
+  margin: 0px;
+}
+
+div {
+  height:inherit;
+}
+
+iframe {
+  height:inherit;
+  width: 100%;
+  background-color: black;
+  border: none;
+}
